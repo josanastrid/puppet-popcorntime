@@ -1,7 +1,7 @@
 ## Popcorn-Time
 See https://popcorntime.io/
 
-[![Build Status](https://travis-ci.org/josanastrid/puppet-popcorntime.svg?branch=0.3.2)](https://travis-ci.org/josanastrid/puppet-popcorntime)
+[![Build Status](https://travis-ci.org/josanastrid/puppet-popcorntime.svg?branch=1.0.0)](https://travis-ci.org/josanastrid/puppet-popcorntime)
 
 ## Usage
 
